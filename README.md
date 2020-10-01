@@ -1,4 +1,4 @@
-# html-basics1-cw
+# HTML-basics1-cw
 
 ### Note: For all problems use the following tags: a, h1, h3, p, strong, em. For CSS use at least one tag, class, and id selector with color and font-size.
 
